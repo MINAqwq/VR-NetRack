@@ -1562,6 +1562,17 @@
                     "action": "UI Scroll",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7da514ec-4125-4b29-a43c-6c1f975aafc2",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Continuous Move",
+                    "action": "Activate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
