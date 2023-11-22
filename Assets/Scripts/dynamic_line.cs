@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -14,6 +15,7 @@ public class dynamic_line : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Don't ever move this object from 0,0,0!!
         line_renderer = line.GetComponent<LineRenderer>();
         line_renderer.enabled = true;
     }
@@ -22,9 +24,9 @@ public class dynamic_line : MonoBehaviour
     void FixedUpdate()
     {
         Vector3 point_start = plug1.transform.position;
-        Debug.Log(point_start);
+        //Debug.Log(point_start);
         Vector3 point_end = plug2.transform.position;
-        Debug.Log(point_end);
+        //Debug.Log(point_end);
 
         //line.transform.position = point_start;
         line_renderer.SetPosition(0, point_start);
