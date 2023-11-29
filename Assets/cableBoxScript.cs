@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class createNewObject : MonoBehaviour
+public class cableBoxScript : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject newObject;
@@ -12,7 +12,8 @@ public class createNewObject : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+
+    public void Fire()
     {
         // MUST BE SPAWNED AT 0,0,0!!
         newObject.transform.position = Vector3.zero;
