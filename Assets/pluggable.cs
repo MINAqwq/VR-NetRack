@@ -35,8 +35,6 @@ public class pluggable : MonoBehaviour
         {
             if (timeout > 60)
             {
-                interactableGrab.enabled = true;
-                interactableGrabTransformer.enabled = true;
                 disableAll();
             } else { 
                 timeout++;
@@ -50,6 +48,7 @@ public class pluggable : MonoBehaviour
         {
             //If the GameObject's name matches the one you suggest, output this message in the console
             pluggedIntoThis = other.gameObject;
+            interactableGrab.IsSelected(null);
             interactableGrabTransformer.enabled = false;
             interactableGrab.enabled = false;
             disableAll();
