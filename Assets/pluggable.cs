@@ -59,9 +59,9 @@ public class pluggable : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        // If it's a plug and we're not yet plugged into something
         if ((other.gameObject.tag == "Plug") && (!pluggedIntoSomething))
         {
-            //If the GameObject's name matches the one you suggest, output this message in the console
             pluggedIntoThis = other.gameObject;
             disableAll();
         }

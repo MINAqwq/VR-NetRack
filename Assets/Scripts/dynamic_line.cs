@@ -24,11 +24,8 @@ public class dynamic_line : MonoBehaviour
     void FixedUpdate()
     {
         Vector3 point_start = plug1.transform.position;
-        //Debug.Log(point_start);
         Vector3 point_end = plug2.transform.position;
-        //Debug.Log(point_end);
 
-        //line.transform.position = point_start;
         line_renderer.SetPosition(0, point_start);
         line_renderer.SetPosition(1, point_end);
     }
