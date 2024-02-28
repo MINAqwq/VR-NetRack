@@ -9,10 +9,14 @@ Unity was chosen for it's compatibility with Oculus headsets, as well as thoroug
 Please refer to the [Unity Documentation](https://docs.unity.com/) for more information.
 
 ## Visual Studio 2022
-This program is created using Visual Studio 2022, which offers native compatibility with Unity. It is used to open and edit the .cs files, which are C#-Script files. These are found in both `Assets/` and `Assets/Scripts/`, although putting future Scripts into the latter is advised.
+This program is created using Visual Studio 2022, which offers native compatibility with Unity. It is used to open and edit the .cs files, which are C#-Script files.
+
+These are found in both `Assets/` and `Assets/Scripts/`, although putting future Scripts into the latter is advised.
 
 ## Blender 4.0
-Blender is used to open the .blend Project files found inside `BlenderFiles/`. These are then exported as .fbx-files into the `Assets/RackObjects/` folder for Unity to recognize.
+Blender is used to open the .blend Project files found inside `BlenderFiles/`.
+
+These are then exported as .fbx-files into the `Assets/RackObjects/` folder for Unity to recognize.
 
 ## Aesprite
 Aesprite is used to open .ase files, which are the project files for the 2D Texture creation. Aesprite is open-source, but must be compiled from source to be used for free, otherwise it is a paid program. However, as the textures are very simple, any image editor can be used to simply edit the exported .png files directly.
