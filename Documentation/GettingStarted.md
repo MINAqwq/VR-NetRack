@@ -29,7 +29,9 @@ Git/GitHub Desktop was used for version control.
 More on it can found in the [Git Section](Git.md).
 
 # Libraries
-This project exclusively utilizes Unity-provided Libraries, including Unity's OpenXR Framework. Please refer to the Unity Documentation on how to use these.
+This project exclusively utilizes Unity-provided Libraries, including Unity's OpenXR Framework.
+
+Please refer to the [Unity Documentation](https://docs.unity.com/) on how to use these and what functionality they provide.
 
 # Getting Started
 ## Opening the Project
