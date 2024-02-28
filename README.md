@@ -10,6 +10,9 @@ The plan had been to open source this project all along, so future students coul
 
 The reason it went public today, the 17th of January, 2024, is because the teacher we did the project under requested it.
 
+# Documentation
+For more information on how to utilize the Project, please take a look at the files inside the Documentation folder. If you choose to fork the project, and make your own, please make sure to update it's contents for future users!
+
 # License
 This is subject to change.
 [MIT LICENSE](LICENSE)
