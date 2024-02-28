@@ -5,6 +5,7 @@ This application was created using the following Programs. You will need these o
 
 ## Unity 2022.3.10f1
 Unity was chosen for it's compatibility with Oculus headsets, as well as thorough Documentation. Because the project uses Unity, C# is used for its scripts.
+
 Please refer to the [Unity Documentation](https://docs.unity.com/) for more information.
 
 ## Visual Studio 2022
