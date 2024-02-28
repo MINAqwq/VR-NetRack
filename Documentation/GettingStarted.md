@@ -24,8 +24,9 @@ Aesprite is used to open .ase files, which are the project files for the 2D Text
 Any and all textures are to be placed in `Assets/Textures/`.
 
 ## Git/GitHub Desktop
-Git/GitHub Desktop was used for version control. 
-More on it can found in the [Git Section](Git.md)
+Git/GitHub Desktop was used for version control.
+
+More on it can found in the [Git Section](Git.md).
 
 # Libraries
 This project exclusively utilizes Unity-provided Libraries, including Unity's OpenXR Framework. Please refer to the Unity Documentation on how to use these.
