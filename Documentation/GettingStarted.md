@@ -27,18 +27,21 @@ This project exclusively utilizes Unity-provided Libraries, including Unity's Op
 Open up Unity Hub and open the VR-NetRack folder with it. This should automatically start opening the Project, if the appropriate version of the Unity-Editor is present.
 
 By default, GitHub Desktop puts it's repositories inside the Documents folder on Windows, so the path to the folder might look something like
-```text
-C:\Users\UserName123\Documents\GitHub\VR-NetRack```
+```
+C:\Users\UserName123\Documents\GitHub\VR-NetRack
+```
 
 ## Opening the correct Room
 Use the bottom Context Menu to open the mainRoom scene, found inside the Scenes folder.
-```text
-Scenes/mainRoom```
+```
+Scenes/mainRoom
+```
 
 ## XR Simulation Mode
 You can choose between testing the game with an XR Simulator through Unity by checking or unchecking the option found inside
-```text
-Edit > Project Settings > XR Interaction Toolkit > VR Device Simulator Settings```
+```
+Edit > Project Settings > XR Interaction Toolkit > VR Device Simulator Settings
+```
 The Option is labelled as `Use XR Device Simulator in scenes`.
 
 # Understanding the Project
