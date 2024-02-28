@@ -13,6 +13,8 @@ The reason it went public today, the 17th of January, 2024, is because the teach
 # Documentation
 For more information on how to utilize the Project, please take a look at the files inside the Documentation folder. If you choose to fork the project, and make your own, please make sure to update it's contents for future users!
 
+Start exploring the Documentation by using the [Main Markdown file](Documentation/Main.md) for easy navigation.
+
 # License
 This is subject to change.
 [MIT LICENSE](LICENSE)

@@ -4,10 +4,10 @@ This project was built ontop of the Unity-provided OpenXR Sample Project, as suc
 This application was created using the following Programs. You will need these or later versions to use the project files.
 
 ## Unity 2022.3.10f1
-Unity was chosen for it's compatibility with Oculus headsets, as well as thorough Documentation.
+Unity was chosen for it's compatibility with Oculus headsets, as well as thorough Documentation. Because the project uses Unity, C# is used for its scripts.
 
 ## Visual Studio 2022
-Visual Studio 2022 acts as the main IDE for the creation of this Program, as it provides native compatibility with Unity.
+This program is created using Visual Studio 2022, which offers native compatibility with Unity. It is used to open and edit the .cs files, which are C#-Script files.
 
 ## Blender 4.0
 Blender is used to open the .blend Project files. These are then exported as .fbx into the RackObjects folder.
