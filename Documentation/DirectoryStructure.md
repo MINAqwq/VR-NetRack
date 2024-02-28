@@ -31,6 +31,6 @@ Contains several project settings (you shouldn't touch them too)
 Project license. Tells other people and evil companies like the BKT what they can do with the stuff in this repository.
 
 ## README.md
-The first file you should read after opening this repository. Contains basic informations and the first starting points.
+The first file you should read after opening this repository. Contains basic information and the first starting points.
 If you haven't red it yet, go to README.md, do not pass GO, do not collect $200.
 
